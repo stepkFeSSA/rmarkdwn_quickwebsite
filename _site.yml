@@ -1,0 +1,12 @@
+name: "R Markdown Website"
+navbar:
+  title: "Stephan Koenigsberger."
+  left:
+    - text: "Relationship between carbon and Fe(II)"
+      href: index.html
+    - text: "About this page"
+      href: about.html
+output_dir: "."
+output:
+  html_document:
+    highlight: textmate
